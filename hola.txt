@@ -4,4 +4,3 @@ Bridney Montoya
 nuevos cambios en el archivo hola
  sabado 08 de febrero de 2020
 estamos probando estos comandos
-para subirlos al repositorio en linea
